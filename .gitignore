@@ -1,0 +1,7 @@
+.DS_Store
+.envrc
+.vscode*
+.python-version
+**/*.pyc
+*.log
+*.sql
